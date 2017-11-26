@@ -11,7 +11,7 @@ import retrofit2.Response;
 
 /**
  * Created by amuno on 12-11-2017.
- * traspasa a git
+ *
  */
 
 public abstract class GetQuotes extends AsyncTask<Object,Object,Quotes> {

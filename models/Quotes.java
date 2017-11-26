@@ -2,7 +2,7 @@ package com.desafiolatam.prueba4.models;
 
 /**
  * Created by amuno on 12-11-2017.
- * traspaso a git
+ *
  */
 
 public class Quotes {

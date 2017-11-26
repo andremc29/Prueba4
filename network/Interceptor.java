@@ -11,7 +11,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 /**
  * Created by amuno on 12-11-2017.
- * traspaso a git
+ *
  */
 
 public class Interceptor {

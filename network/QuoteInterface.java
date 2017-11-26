@@ -7,7 +7,7 @@ import retrofit2.http.GET;
 
 /**
  * Created by amuno on 12-11-2017.
- * traspaso a git
+ *
  */
 
 public interface QuoteInterface {
