@@ -20,8 +20,8 @@ public class Interceptor {
 
     public QuoteInterface InterceptorChange() {
         OkHttpClient.Builder httpClient = new OkHttpClient.Builder()
-                .connectTimeout(5, TimeUnit.SECONDS)
-                .readTimeout(5, TimeUnit.SECONDS);
+                .connectTimeout(10, TimeUnit.SECONDS)
+                .readTimeout(10, TimeUnit.SECONDS);
 
         httpClient.addInterceptor(new okhttp3.Interceptor() {
             @Override
